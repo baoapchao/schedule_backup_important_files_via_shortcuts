@@ -1,0 +1,10 @@
+backup_folder/*
+file_shortcuts/*
+__pycache__/
+build/
+dist/
+main.spec
+
+*.xlsx
+*.lnk
+
